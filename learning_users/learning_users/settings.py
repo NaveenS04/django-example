@@ -28,7 +28,7 @@ SECRET_KEY = 'nl18ov!)y))2x+y*x_#)(fq@&h-o+_cr(^7h5!$d#1=j*oi^aq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['naveens04.pythonanywhere.com']
 
 
 # Application definition
